@@ -10,8 +10,7 @@ import re
 
 app = FastAPI(title="Sustainable Travel Planner Backend")
 
-# REPLACE WITH YOUR ACTUAL GEMINI API KEY
-# Make sure to replace this with your actual key and consider storing it securely.
+# The Gemini API key is removed for security purposes
 GEMINI_API_KEY = ""
 
 try:
